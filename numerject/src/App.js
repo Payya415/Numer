@@ -3,7 +3,7 @@ import Navbarr from './components/Navbarr'
 import Bisection from './pages/Bisection'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import FalsePosition from './pages/FalsePosition'
-import Punyawee from './pages/Punyawee'
+
 import OnePointIteration from './pages/OnePointIteration'
 import NewtonRaphson from './pages/NewtonRaphson'
 import Secant from './pages/Secant'
